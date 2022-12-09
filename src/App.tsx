@@ -10,8 +10,8 @@ function App() {
     <div>
       <Alert status='success'>
         <AlertIcon />
-        <AlertTitle>Aula Deploy</AlertTitle>
-        <AlertDescription>Deploy com Chakra UI</AlertDescription>
+        <AlertTitle>Aula Deploy UPDATE DEPLOY AUTOMATICO</AlertTitle>
+        <AlertDescription>Deploy com Chakra UI UPDATE DEPLOY AUTOMATICO</AlertDescription>
       </Alert>
     </div>
   )
